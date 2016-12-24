@@ -7,6 +7,10 @@
     "url": "git@github.com:setlight/snake",
     "type": "git"
   },
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack -p"
+  },
   "author": "Guilherme Rv Coelho <@grvcoelho>",
   "license": "MIT",
   "devDependencies": {
