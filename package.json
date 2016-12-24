@@ -1,0 +1,12 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "Snake video-game implementation using modern front-end tools",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:setlight/snake",
+    "type": "git"
+  },
+  "author": "Guilherme Rv Coelho <@grvcoelho>",
+  "license": "MIT"
+}
